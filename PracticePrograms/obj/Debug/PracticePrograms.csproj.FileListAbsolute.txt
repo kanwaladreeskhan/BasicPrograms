@@ -5,3 +5,10 @@ C:\Users\FC Technologies\source\repos\PracticePrograms\PracticePrograms\obj\Debu
 C:\Users\FC Technologies\source\repos\PracticePrograms\PracticePrograms\obj\Debug\PracticePrograms.csproj.CoreCompileInputs.cache
 C:\Users\FC Technologies\source\repos\PracticePrograms\PracticePrograms\obj\Debug\PracticePrograms.exe
 C:\Users\FC Technologies\source\repos\PracticePrograms\PracticePrograms\obj\Debug\PracticePrograms.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PracticePrograms\BasicPrograms\PracticePrograms\bin\Debug\PracticePrograms.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PracticePrograms\BasicPrograms\PracticePrograms\bin\Debug\PracticePrograms.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PracticePrograms\BasicPrograms\PracticePrograms\bin\Debug\PracticePrograms.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PracticePrograms\BasicPrograms\PracticePrograms\obj\Debug\PracticePrograms.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PracticePrograms\BasicPrograms\PracticePrograms\obj\Debug\PracticePrograms.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PracticePrograms\BasicPrograms\PracticePrograms\obj\Debug\PracticePrograms.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PracticePrograms\BasicPrograms\PracticePrograms\obj\Debug\PracticePrograms.pdb

@@ -60,7 +60,7 @@ namespace PracticePrograms
 
             //Program 4
             Console.WriteLine("Program 4\nSearch a Number:");
-            int[] list = new int[7]; int index = 0;
+            int[] list = new int[7]; int index = -1;
             Console.WriteLine("Enter Elements:");
             for (int i = 0; i < list.Length; i++)
             {
@@ -74,9 +74,10 @@ namespace PracticePrograms
                 if (list[i] == num)
                 {
                     index = i;
+                    break;
                 }
             }
-            if (index != 0)
+            if (index != -1)
             {
                 Console.WriteLine("The number exists at index {0}", index);
             }
